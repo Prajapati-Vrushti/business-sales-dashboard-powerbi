@@ -1,16 +1,22 @@
 # 📊 Business Sales & Forecasting Dashboard  
 
 ## Overview  
-This project presents an interactive dashboard to analyze sales performance and trends.  
+This project showcases an interactive dashboard built to analyze business sales performance and identify key trends.  
 
-## Features  
-- KPI metrics: Sales, Profit, Orders  
-- Sales by Region & Product  
-- Monthly trends  
-- Category-wise analysis  
+## Key Features  
+- KPI Metrics: Total Sales, Profit, Orders, Average Sales  
+- Sales analysis by Region and Product  
+- Monthly trend visualization  
+- Category-wise contribution analysis  
+- Interactive filtering for better insights  
 
 ## Tools Used  
 - Power BI  
 
+## Key Learnings  
+- Transforming raw data into meaningful insights  
+- Designing clean and user-friendly dashboards  
+- Understanding business performance metrics  
+
 ## Dashboard Preview  
-![Dashboard](photo.png)
+![Dashboard](Dashboard.png)
